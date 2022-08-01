@@ -7,7 +7,7 @@
 <br/>
 <div align= center>
 <a href="https://jp0liveira.github.io/02frontendprojects/" target = "_blank"><img src="https://user-images.githubusercontent.com/106454449/182050776-c5154b24-03b6-4487-ad15-412e38017d22.jpg" alt="imagemprojetohtmlandcss"></a>
-<a href="https://jp0liveira.github.io/01frontendprojects/" target = "_blank"><img src="https://user-images.githubusercontent.com/106454449/182050781-c4c9b315-7d32-4f82-9287-3071ceb7caa7.jpg"></a>
+<a href="https://jp0liveira.github.io/02frontendprojects/" target = "_blank"><img src="https://user-images.githubusercontent.com/106454449/182050781-c4c9b315-7d32-4f82-9287-3071ceb7caa7.jpg"></a>
 <figcaption style="text-align: center">Project using only HTML and CSS </figcaption>
 </div>
 <br>
